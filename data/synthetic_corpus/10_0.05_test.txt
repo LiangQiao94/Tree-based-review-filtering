@@ -1,0 +1,1000 @@
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 2 2 1 2 1 2 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 1 6 8 8 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+1 1 1 6 1 6 1 6 6 6 6 1 6 	Neg	Pos
+10 1 1 10 	Neg	Neg
+9 1 9 6 1 1 9 1 1 1 	Neg	Neg
+1 1 1 6 6 12 6 1 10 6 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 12 10 8 10 1 10 1 8 	Neg	Neg
+1 8 5 8 1 8 1 1 2 2 1 	Neg	Neg
+6 8 8 6 6 6 8 1 1 1 2 6 8 8 6 6 	Neg	Neg
+12 10 12 1 1 1 12 12 10 	Neg	Neg
+1 2 3 2 1 3 1 1 1 3 1 2 	Neg	Neg
+1 13 1 1 13 13 10 1 10 10 10 10 	Neg	Neg
+1 1 12 12 10 10 12 	Neg	Neg
+1 1 2 1 1 1 1 5 	Neg	Neg
+1 1 10 1 1 10 1 1 10 10 10 	Neg	Pos
+12 2 2 1 1 1 2 	Neg	Neg
+10 2 3 1 2 2 12 1 1 3 2 	Neg	Neg
+2 3 5 1 1 1 2 1 1 3 	Neg	Neg
+6 1 6 6 1 6 	Neg	Neg
+1 10 1 1 10 10 1 1 10 10 1 	Neg	Neg
+10 10 1 1 10 1 10 	Neg	Pos
+1 1 1 10 1 1 1 1 1 1 1 1 1 	Neg	Neg
+4 1 2 1 2 1 1 1 2 1 4 1 1 1 	Neg	Neg
+1 5 1 1 5 1 10 1 1 2 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 	Neg	Neg
+2 1 2 2 3 1 3 1 	Neg	Neg
+1 6 6 1 6 1 1 1 	Neg	Pos
+3 2 2 3 3 1 3 2 2 11 1 	Neg	Neg
+1 9 1 1 1 13 9 9 9 9 	Neg	Neg
+13 2 2 2 1 10 5 10 	Neg	Neg
+6 1 9 9 6 6 	Neg	Neg
+1 1 1 10 13 1 10 1 	Neg	Neg
+1 1 1 6 6 1 6 1 1 1 6 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 3 1 1 1 2 1 1 3 1 1 1 	Neg	Neg
+1 10 1 1 1 1 1 	Neg	Pos
+10 1 1 1 10 1 1 10 1 13 13 	Neg	Neg
+1 2 2 1 1 2 2 2 1 	Neg	Neg
+2 4 6 1 1 6 2 8 4 4 4 4 	Neg	Neg
+10 10 1 10 1 10 1 11 10 11 10 10 11 	Neg	Neg
+1 2 1 2 1 1 1 1 1 1 2 5 2 5 	Neg	Neg
+1 3 1 2 2 2 2 2 3 3 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 5 2 2 5 5 5 5 5 5 5 2 1 5 2 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 7 7 7 1 1 1 1 6 7 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 6 6 1 	Neg	Pos
+1 1 10 1 1 1 10 1 10 1 1 	Neg	Neg
+1 1 6 7 1 7 7 6 1 6 1 	Neg	Neg
+10 11 10 11 10 11 11 10 10 11 1 	Neg	Neg
+1 5 5 1 5 1 1 5 2 5 1 1 2 1 9 	Neg	Neg
+1 12 10 1 1 1 10 1 1 	Neg	Neg
+1 13 10 13 10 1 1 13 10 10 13 13 13 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+8 8 1 8 8 1 	Neg	Neg
+9 1 6 9 6 6 1 1 6 9 6 9 1 	Neg	Neg
+1 4 2 1 2 1 1 1 4 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+5 1 1 1 2 1 1 1 10 1 1 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 10 11 1 1 1 1 	Neg	Neg
+1 10 2 6 1 1 10 6 6 1 8 10 6 	Neg	Neg
+1 5 1 1 5 5 2 1 2 1 2 5 	Neg	Neg
+1 1 5 1 1 1 	Neg	Neg
+2 1 3 10 2 11 3 3 1 2 2 	Neg	Neg
+6 6 1 10 6 1 6 1 1 1 1 10 13 1 6 10 	Neg	Neg
+1 1 1 1 1 6 8 8 1 2 	Neg	Neg
+8 8 1 1 6 8 1 8 1 1 6 1 	Neg	Neg
+1 7 1 1 1 6 6 1 1 	Neg	Neg
+1 1 1 1 1 2 2 1 1 1 1 1 	Neg	Neg
+1 3 3 3 1 3 3 	Neg	Neg
+7 6 6 1 	Neg	Neg
+3 1 3 2 1 1 3 3 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 13 1 2 1 1 10 2 10 13 13 1 	Neg	Neg
+1 6 1 1 10 10 1 8 10 10 	Neg	Neg
+6 6 6 6 8 1 1 1 8 8 1 1 	Neg	Neg
+2 1 1 1 2 1 2 2 	Neg	Pos
+12 10 1 1 1 1 10 12 12 10 10 	Neg	Neg
+6 7 7 1 1 1 1 7 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 9 1 1 2 1 1 	Neg	Neg
+1 10 6 5 8 1 6 1 1 10 	Neg	Neg
+1 1 13 10 10 1 10 	Neg	Neg
+6 1 2 4 1 6 2 4 6 	Neg	Neg
+13 10 1 13 1 1 1 10 	Neg	Neg
+1 6 1 9 1 1 6 6 1 9 1 6 6 9 	Neg	Neg
+6 6 10 6 1 1 6 1 1 10 	Neg	Neg
+8 8 8 1 8 6 6 6 6 1 1 6 	Neg	Neg
+6 8 6 1 1 1 6 6 9 1 1 	Neg	Neg
+1 1 1 1 2 1 	Neg	Neg
+13 1 1 1 13 10 13 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 2 4 1 1 4 3 1 	Neg	Neg
+4 1 4 4 4 4 4 2 1 4 	Neg	Neg
+1 1 1 6 1 6 6 1 1 1 6 6 8 1 1 8 1 6 	Neg	Neg
+10 1 11 11 11 11 10 	Neg	Neg
+8 1 6 1 1 1 10 1 	Neg	Neg
+1 1 1 1 	Pos	Pos
+1 10 1 1 10 1 10 2 10 2 2 11 11 2 1 10 	Neg	Neg
+1 1 10 10 10 10 10 1 	Neg	Neg
+5 1 1 1 1 1 1 1 2 1 1 	Neg	Neg
+1 1 6 1 1 9 1 1 	Neg	Neg
+1 1 1 2 1 1 1 1 1 2 	Neg	Neg
+1 1 1 6 1 1 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 4 4 1 4 2 	Neg	Neg
+9 9 1 1 5 2 9 9 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+3 2 1 2 3 2 	Neg	Neg
+5 1 2 2 1 2 1 5 1 5 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 10 12 12 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 13 10 1 10 1 13 10 13 	Neg	Neg
+3 4 1 5 1 10 13 1 	Neg	Neg
+1 1 1 	Neg	Neg
+3 2 2 1 2 1 1 1 	Neg	Neg
+1 1 10 10 1 1 12 1 10 10 10 10 	Neg	Neg
+10 10 1 1 10 1 10 1 	Neg	Neg
+10 11 1 11 11 10 10 	Neg	Neg
+13 1 1 13 10 1 1 	Neg	Neg
+2 1 1 1 2 1 1 2 1 1 1 	Neg	Neg
+1 1 1 2 1 1 2 1 1 	Neg	Pos
+1 10 1 12 1 1 1 12 12 1 	Neg	Neg
+1 6 2 10 2 1 3 1 2 1 7 3 2 	Neg	Neg
+2 5 1 10 1 13 1 2 2 13 	Neg	Neg
+3 6 6 1 9 1 3 1 1 6 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 6 1 	Neg	Pos
+10 1 10 6 1 8 6 1 	Neg	Neg
+1 1 1 1 8 6 13 	Neg	Neg
+1 1 6 3 6 6 2 2 2 10 	Neg	Neg
+6 1 1 6 1 1 6 6 1 1 6 1 6 6 	Neg	Pos
+10 2 3 1 11 2 3 2 1 2 10 2 	Neg	Neg
+2 1 1 1 1 2 2 1 2 1 1 1 2 1 1 	Neg	Pos
+1 6 1 1 6 1 6 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+9 1 6 6 7 6 1 	Neg	Neg
+6 6 6 6 1 6 1 6 1 6 	Neg	Neg
+2 1 3 3 3 1 1 3 2 3 2 1 1 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 7 1 7 1 1 1 7 1 7 1 7 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 1 2 	Neg	Pos
+1 8 8 6 6 6 6 6 8 	Neg	Neg
+8 6 6 6 1 6 6 6 1 	Neg	Neg
+2 4 1 2 13 10 1 4 10 1 1 2 2 13 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+10 2 2 1 13 2 1 13 2 2 1 	Neg	Neg
+1 6 1 8 	Neg	Neg
+10 1 9 11 1 1 6 	Neg	Neg
+1 9 9 1 9 1 	Neg	Neg
+1 9 1 6 1 1 9 1 1 	Neg	Neg
+1 1 1 1 1 1 10 1 1 1 1 	Neg	Neg
+10 6 10 1 1 10 1 1 11 1 1 1 6 	Neg	Neg
+1 1 1 1 6 7 6 	Neg	Neg
+1 2 2 4 1 2 4 	Neg	Neg
+3 2 1 11 2 2 3 2 2 2 	Neg	Neg
+1 1 1 2 1 1 1 3 1 1 	Neg	Neg
+1 1 1 1 6 1 1 1 1 1 1 1 	Neg	Neg
+1 1 6 1 2 1 2 1 2 	Neg	Neg
+10 1 6 6 6 1 7 6 6 7 7 6 1 6 1 1 	Neg	Neg
+1 12 1 12 6 1 12 	Neg	Neg
+2 2 1 2 2 1 1 	Neg	Pos
+3 11 1 2 1 2 2 3 1 1 2 1 2 2 1 1 1 	Neg	Neg
+3 3 1 1 1 1 3 2 1 2 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+10 12 11 1 1 11 10 1 11 	Neg	Neg
+1 1 6 6 1 6 9 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+7 6 1 6 1 7 7 6 7 6 6 7 1 6 	Neg	Neg
+1 6 1 1 6 1 6 1 2 1 6 	Neg	Pos
+1 1 1 2 1 2 1 2 1 1 2 1 1 2 2 2 	Neg	Pos
+1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+1 10 1 1 10 1 	Neg	Neg
+1 6 6 6 6 1 1 1 1 	Neg	Neg
+9 9 9 4 1 9 9 2 	Neg	Neg
+8 1 1 1 1 1 1 6 1 6 8 1 1 6 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 	Pos	Pos
+1 6 1 11 10 10 6 1 	Neg	Neg
+1 1 1 3 1 1 2 3 2 2 	Neg	Neg
+11 11 11 11 10 11 1 1 1 10 6 10 1 11 	Neg	Neg
+1 1 1 1 1 1 1 	Neg	Neg
+1 10 2 4 2 	Neg	Neg
+10 1 10 1 1 1 1 10 10 10 1 10 	Neg	Pos
+10 10 1 1 10 10 10 1 10 10 10 	Neg	Pos
+1 6 2 2 2 12 6 	Neg	Neg
+1 12 10 12 1 12 12 12 1 10 	Neg	Neg
+6 8 6 6 8 	Neg	Neg
+7 6 6 1 6 1 6 7 6 1 6 	Neg	Neg
+1 2 2 2 1 2 2 	Neg	Neg
+1 10 6 10 10 10 6 6 8 11 11 	Neg	Neg
+1 1 1 1 2 1 6 1 2 1 1 	Neg	Neg
+1 5 2 1 5 1 5 6 1 2 6 1 1 2 1 2 2 2 	Neg	Neg
+1 2 2 1 1 1 1 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 10 1 10 6 1 1 1 6 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+2 1 6 1 1 6 1 	Neg	Neg
+2 1 5 3 1 2 1 1 1 3 2 	Neg	Neg
+6 6 1 1 1 6 4 1 6 8 1 8 8 8 1 	Neg	Neg
+10 13 1 10 13 1 	Neg	Neg
+3 1 6 1 11 1 10 1 10 11 1 1 6 1 1 10 6 	Neg	Neg
+1 10 2 10 10 8 1 1 10 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+2 2 1 3 3 1 3 2 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 6 	Neg	Pos
+13 1 1 1 1 6 1 1 2 1 10 1 	Neg	Neg
+1 11 1 11 1 10 10 1 10 	Neg	Neg
+1 2 1 6 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+4 4 2 4 1 1 1 1 4 1 4 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+1 5 5 1 2 5 1 5 5 10 	Neg	Neg
+12 10 1 1 1 1 1 1 1 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 9 1 1 	Neg	Neg
+2 2 1 4 2 1 2 1 1 2 2 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 1 1 2 5 1 1 2 5 2 	Neg	Neg
+10 1 1 1 1 10 10 1 	Neg	Neg
+1 1 1 13 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Neg	Pos
+1 13 10 1 9 	Neg	Neg
+7 1 6 1 7 6 7 1 1 7 7 	Neg	Neg
+1 6 7 7 1 1 1 1 1 	Neg	Neg
+6 10 6 1 6 1 1 1 6 8 10 1 	Neg	Neg
+1 8 1 1 1 1 1 6 1 2 1 1 1 1 	Neg	Neg
+1 1 2 1 2 1 1 1 1 1 	Neg	Pos
+1 6 8 1 1 8 6 	Neg	Neg
+8 10 8 2 10 6 12 8 12 10 12 12 1 1 	Neg	Neg
+1 1 1 1 2 1 1 2 1 2 	Neg	Pos
+1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 2 2 2 2 	Neg	Neg
+6 10 11 10 10 1 10 11 10 	Neg	Neg
+1 1 1 1 1 1 1 1 6 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+9 9 3 9 6 2 1 1 1 	Neg	Neg
+1 13 10 1 1 13 10 1 1 13 1 	Neg	Neg
+2 2 1 2 2 1 1 1 2 1 2 2 2 	Neg	Pos
+3 1 1 3 2 2 1 2 1 2 1 1 	Neg	Neg
+5 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 7 6 1 1 	Neg	Neg
+1 5 2 5 5 1 1 1 2 1 2 2 	Neg	Neg
+10 1 11 1 1 1 11 11 11 6 10 1 11 1 11 10 1 11 	Neg	Neg
+1 1 1 1 1 1 1 1 7 7 7 1 1 1 	Neg	Neg
+5 2 1 2 1 1 1 2 5 1 	Neg	Neg
+1 10 1 13 10 13 1 1 1 1 	Neg	Neg
+9 2 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+6 6 1 1 1 1 6 1 1 	Neg	Neg
+1 1 1 1 	Pos	Pos
+10 10 1 10 10 1 1 	Neg	Pos
+8 8 10 8 11 1 1 11 	Neg	Neg
+1 13 1 6 10 8 	Neg	Neg
+7 1 7 1 6 7 7 7 7 6 7 6 1 	Neg	Neg
+6 1 1 1 1 6 	Neg	Neg
+1 12 1 10 12 10 10 1 10 	Neg	Neg
+10 1 1 10 1 10 10 1 	Neg	Pos
+6 1 1 9 1 6 1 6 9 	Neg	Neg
+1 1 1 1 10 1 1 10 1 10 1 1 9 	Neg	Neg
+1 4 4 4 2 4 1 2 4 4 	Neg	Neg
+1 10 11 1 10 11 1 11 1 	Neg	Neg
+1 1 6 6 6 1 6 6 6 1 	Neg	Neg
+1 10 12 1 1 12 10 1 	Neg	Neg
+10 10 10 1 1 	Neg	Pos
+1 1 5 1 1 1 5 1 1 1 1 	Neg	Neg
+10 10 10 10 12 1 10 12 12 10 1 12 12 12 	Neg	Neg
+1 13 10 1 13 13 10 13 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 6 1 1 6 1 1 6 	Neg	Pos
+2 5 1 2 1 1 2 2 5 	Neg	Neg
+10 1 1 1 3 11 2 	Neg	Neg
+1 6 9 1 9 9 1 6 1 1 9 6 6 9 	Neg	Neg
+1 1 1 12 1 10 6 1 6 	Neg	Neg
+2 2 2 6 2 1 2 1 1 2 1 1 	Neg	Neg
+1 1 1 1 1 1 1 	Pos	Pos
+2 1 1 7 2 1 2 1 2 2 1 1 7 2 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 	Pos	Pos
+10 1 10 12 10 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+7 6 7 1 7 1 7 1 1 	Neg	Neg
+1 10 11 1 12 10 10 1 11 10 1 	Neg	Neg
+3 6 6 6 1 6 6 6 1 1 1 	Neg	Neg
+2 2 1 2 1 2 2 3 3 	Neg	Neg
+1 10 1 10 1 10 1 	Neg	Neg
+4 2 4 1 4 1 1 4 10 	Neg	Neg
+6 1 1 8 6 1 8 1 1 8 1 1 6 	Neg	Neg
+1 1 2 1 1 1 2 2 1 1 1 1 2 2 11 2 1 	Neg	Neg
+1 1 1 1 1 6 11 1 1 	Neg	Neg
+4 2 2 2 2 1 1 1 	Neg	Neg
+10 1 1 10 10 	Neg	Pos
+9 2 1 5 5 4 6 	Neg	Neg
+6 6 1 9 1 1 1 1 1 6 1 1 	Neg	Neg
+1 1 6 8 6 1 6 1 1 8 	Neg	Neg
+1 1 1 10 1 11 13 10 1 	Neg	Neg
+1 1 3 1 1 1 2 10 13 3 1 1 1 	Neg	Neg
+1 10 10 1 12 12 10 10 12 1 13 	Neg	Neg
+1 1 1 2 2 1 1 1 1 2 1 1 	Neg	Neg
+10 2 10 1 2 2 2 2 2 1 1 2 2 	Neg	Neg
+1 1 1 1 12 1 1 1 1 10 1 7 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 10 1 1 1 	Neg	Neg
+1 1 1 1 2 1 1 2 1 2 	Neg	Pos
+1 1 1 1 10 1 1 10 13 1 13 13 	Neg	Neg
+1 11 1 11 1 1 1 10 1 	Neg	Neg
+7 6 6 1 1 1 6 1 6 7 7 6 6 6 6 	Neg	Neg
+10 11 10 1 11 11 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+13 10 13 8 1 13 1 10 	Neg	Neg
+6 6 1 1 6 6 	Neg	Pos
+1 1 1 1 1 6 1 1 1 1 7 1 1 1 	Neg	Neg
+2 1 1 1 2 1 3 3 3 3 2 2 2 2 2 	Neg	Neg
+1 1 1 1 2 1 1 2 2 2 	Neg	Pos
+1 6 1 1 6 6 6 6 	Neg	Pos
+1 1 1 1 1 1 1 1 11 	Neg	Neg
+2 6 2 5 1 2 1 1 1 7 5 2 6 2 2 	Neg	Neg
+1 1 1 1 1 1 10 1 1 1 1 1 	Neg	Pos
+10 1 10 1 10 11 10 1 11 1 11 	Neg	Neg
+1 10 10 1 1 10 1 10 1 1 10 1 1 	Neg	Pos
+11 1 1 10 6 6 1 1 6 	Neg	Neg
+8 6 8 8 8 1 8 1 8 	Neg	Neg
+10 12 1 10 10 1 10 12 1 1 1 	Neg	Neg
+10 12 12 12 10 1 10 1 12 10 12 10 10 12 	Neg	Neg
+2 1 1 2 1 2 3 1 2 	Neg	Neg
+1 6 6 6 6 1 6 6 1 1 6 6 6 	Neg	Pos
+6 2 2 10 8 8 2 	Neg	Neg
+1 1 1 1 1 9 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+11 1 11 11 10 1 10 10 1 10 11 1 1 1 10 	Neg	Neg
+6 1 6 8 1 9 6 9 9 9 9 6 1 9 6 1 6 1 6 6 1 6 	Neg	Neg
+10 1 1 10 2 1 5 6 1 1 1 10 1 2 	Neg	Neg
+9 9 9 6 1 6 6 9 1 	Neg	Neg
+7 1 6 6 6 1 6 1 8 6 1 6 1 	Neg	Neg
+6 8 6 8 1 8 8 12 6 6 6 	Neg	Neg
+7 1 4 6 1 2 7 7 2 1 	Neg	Neg
+9 9 1 1 6 1 6 9 6 1 	Neg	Neg
+6 6 8 6 8 1 6 8 6 1 8 8 	Neg	Neg
+1 12 1 13 10 13 10 10 13 1 10 10 10 	Neg	Neg
+11 10 11 1 1 11 11 1 1 11 11 10 11 11 11 	Neg	Neg
+1 1 1 1 1 2 1 4 	Neg	Neg
+10 1 1 1 1 1 1 10 1 1 	Neg	Neg
+1 1 10 2 2 1 10 1 	Neg	Neg
+2 1 2 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+1 6 1 1 1 6 6 1 6 	Neg	Pos
+1 1 1 1 1 6 1 1 1 1 6 1 	Neg	Pos
+8 6 8 8 6 6 	Neg	Neg
+1 1 1 2 1 1 	Neg	Neg
+1 1 1 2 1 2 1 2 2 1 	Neg	Neg
+1 2 3 2 2 3 1 	Neg	Neg
+4 1 1 1 1 	Neg	Neg
+10 1 6 6 6 10 10 1 	Neg	Pos
+1 3 1 2 1 2 3 3 3 3 	Neg	Neg
+1 1 1 1 1 1 1 1 2 1 1 1 	Neg	Pos
+2 1 1 1 10 1 1 10 10 10 1 2 1 10 10 10 	Neg	Neg
+2 2 1 1 2 2 1 2 2 2 	Neg	Pos
+6 6 1 1 1 1 1 1 	Neg	Pos
+1 10 1 10 10 10 6 10 10 6 10 1 1 10 10 	Neg	Neg
+7 6 7 7 6 7 7 7 6 1 7 6 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 11 4 13 1 10 	Neg	Neg
+4 2 1 2 4 4 4 	Neg	Neg
+6 1 6 1 1 1 7 1 1 1 6 1 	Neg	Neg
+1 8 6 1 1 9 1 	Neg	Neg
+1 9 1 9 9 1 6 9 6 9 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+8 8 7 1 6 7 1 6 1 13 	Neg	Neg
+7 1 7 5 1 7 7 7 7 7 1 	Neg	Neg
+3 1 2 1 1 2 10 1 	Neg	Neg
+1 1 1 1 2 1 2 1 13 1 	Neg	Neg
+1 1 1 1 1 1 1 3 3 1 1 	Neg	Neg
+1 13 1 1 10 1 1 	Neg	Neg
+1 1 2 2 1 2 2 1 1 1 	Neg	Pos
+10 1 1 6 6 12 13 6 1 1 	Neg	Neg
+4 1 2 10 10 10 10 4 2 1 2 10 1 1 1 1 	Neg	Neg
+4 2 2 4 2 4 1 4 4 1 4 2 	Neg	Neg
+1 1 1 1 1 1 1 	Pos	Pos
+6 1 1 1 6 6 	Neg	Neg
+10 1 2 1 2 1 	Neg	Neg
+1 1 1 10 10 1 1 1 1 1 10 	Neg	Neg
+1 2 1 2 2 1 2 2 2 1 1 	Neg	Pos
+8 6 6 10 1 6 1 8 	Neg	Neg
+2 1 2 2 1 2 2 2 1 1 	Neg	Pos
+6 1 1 1 1 1 1 1 1 1 1 1 6 	Neg	Neg
+10 1 13 1 13 1 10 10 	Neg	Neg
+1 1 1 1 6 1 1 1 1 1 1 1 	Neg	Neg
+1 6 1 1 1 1 6 1 1 1 6 1 	Neg	Pos
+10 1 1 3 1 10 2 10 3 3 	Neg	Neg
+13 13 13 6 13 10 10 13 10 1 10 10 1 1 	Neg	Neg
+6 6 1 7 7 1 1 6 	Neg	Neg
+1 1 1 1 1 1 1 10 1 1 1 1 	Neg	Neg
+1 11 10 11 11 10 10 11 1 1 11 	Neg	Neg
+1 4 1 10 10 1 10 1 10 	Neg	Neg
+1 1 1 10 1 4 13 10 1 10 10 1 1 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 10 1 1 	Neg	Neg
+4 4 4 1 1 1 1 2 	Neg	Neg
+1 1 1 11 8 10 8 1 1 1 10 	Neg	Neg
+10 4 1 11 2 4 4 10 	Neg	Neg
+9 6 9 5 1 9 1 2 1 1 	Neg	Neg
+1 1 1 1 1 6 1 1 1 1 	Neg	Neg
+7 1 7 1 6 1 6 	Neg	Neg
+13 10 13 10 13 10 10 10 1 	Neg	Neg
+2 2 5 2 2 1 1 2 1 	Neg	Neg
+1 9 1 9 1 1 9 1 1 1 	Neg	Neg
+9 9 6 1 1 1 1 1 6 9 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 2 1 12 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+11 10 10 1 1 11 1 1 	Neg	Neg
+12 10 12 1 12 	Neg	Neg
+1 1 10 1 11 10 10 	Neg	Neg
+2 2 11 11 1 	Neg	Neg
+1 11 10 11 10 11 1 11 	Neg	Neg
+1 7 1 6 1 1 6 6 	Neg	Neg
+1 1 1 1 1 7 1 	Neg	Neg
+6 6 6 6 9 6 9 6 	Neg	Neg
+1 11 1 1 11 	Neg	Neg
+1 5 1 1 1 1 1 10 2 1 10 1 1 	Neg	Neg
+1 1 10 1 10 10 10 1 10 	Neg	Pos
+2 2 1 2 10 	Neg	Pos
+11 10 10 10 1 11 2 10 1 10 10 	Neg	Neg
+1 2 2 5 1 5 1 5 	Neg	Neg
+13 8 9 13 10 13 1 13 13 1 	Neg	Neg
+1 1 1 10 1 1 1 1 11 	Neg	Neg
+1 9 1 1 6 1 1 1 6 6 9 1 1 1 13 1 9 	Neg	Neg
+2 1 1 2 2 3 1 7 1 1 1 2 	Neg	Neg
+2 4 1 1 10 2 1 	Neg	Neg
+1 10 13 1 6 1 13 13 1 1 13 13 	Neg	Neg
+1 1 1 1 1 1 1 1 	Neg	Neg
+10 10 1 10 10 1 1 11 11 	Neg	Neg
+4 1 2 1 1 1 2 1 4 4 2 4 	Neg	Neg
+2 1 1 1 1 1 2 2 1 1 5 	Neg	Neg
+1 13 13 13 1 13 13 10 12 1 	Neg	Neg
+7 7 7 6 7 6 6 7 1 7 6 6 6 	Neg	Neg
+1 1 1 1 1 1 1 11 1 1 1 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+6 6 6 1 6 6 1 8 1 1 1 6 1 	Neg	Neg
+1 1 1 1 1 2 1 2 1 1 4 1 4 1 1 1 	Neg	Neg
+6 7 7 7 1 7 7 6 1 7 	Neg	Neg
+1 1 1 10 1 12 1 	Neg	Neg
+1 1 10 1 10 13 13 	Neg	Neg
+6 6 1 6 6 	Neg	Pos
+10 12 12 1 1 10 1 12 10 10 12 1 	Neg	Neg
+1 1 1 1 1 	Pos	Pos
+5 2 1 5 2 5 2 1 	Neg	Neg
+1 1 9 9 9 6 6 9 6 6 6 8 6 9 10 12 1 9 	Neg	Neg
+1 6 6 6 6 6 6 6 6 7 1 7 1 	Neg	Neg
+13 1 13 10 1 13 8 8 13 6 1 	Neg	Neg
+1 1 1 1 10 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 9 1 6 1 6 9 1 1 1 	Neg	Neg
+1 12 10 10 11 1 1 10 11 	Neg	Neg
+1 6 7 1 1 7 6 	Neg	Neg
+1 2 10 10 1 4 12 13 10 10 	Neg	Neg
+1 2 1 3 2 2 6 9 1 2 3 1 1 2 	Neg	Neg
+10 6 1 1 1 2 6 1 10 	Neg	Neg
+2 1 2 1 2 2 1 3 1 1 1 3 1 	Neg	Neg
+1 1 5 1 1 2 1 1 1 1 5 1 1 	Neg	Neg
+12 1 6 6 1 10 6 1 12 6 1 6 12 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 9 1 1 1 9 	Neg	Neg
+1 1 6 	Neg	Pos
+10 1 1 1 1 10 1 1 1 1 10 1 12 1 	Neg	Neg
+5 13 6 6 1 1 1 10 5 10 5 6 	Neg	Neg
+1 1 1 4 4 4 2 4 1 1 2 2 1 2 	Neg	Neg
+2 1 1 2 2 2 2 2 2 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+12 1 12 10 12 10 10 12 1 1 1 1 1 10 	Neg	Neg
+2 1 2 2 2 5 5 5 5 1 2 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+11 1 1 1 10 1 11 11 11 10 10 11 1 	Neg	Neg
+1 1 10 1 1 1 1 1 10 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 6 1 1 	Neg	Pos
+9 1 1 1 1 1 1 6 1 9 1 1 	Neg	Neg
+10 10 13 13 1 1 10 1 1 1 13 1 1 	Neg	Neg
+1 10 10 1 4 1 12 	Neg	Neg
+1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 3 3 1 13 	Neg	Neg
+12 8 8 8 1 8 10 1 	Neg	Neg
+1 5 5 5 2 1 2 2 2 	Neg	Neg
+1 1 1 1 1 1 1 10 1 1 1 	Neg	Neg
+1 2 1 6 	Neg	Neg
+1 1 2 1 10 1 11 1 1 1 1 11 	Neg	Neg
+1 11 10 1 10 1 1 11 	Neg	Neg
+2 1 4 1 1 2 2 4 2 4 	Neg	Neg
+6 1 1 8 1 8 1 6 6 1 8 6 6 6 1 6 6 	Neg	Neg
+4 2 2 1 1 1 1 10 2 4 5 2 4 	Neg	Neg
+2 1 5 1 1 5 1 2 2 1 5 	Neg	Neg
+10 12 1 10 1 10 1 10 1 12 1 12 1 1 10 10 	Neg	Neg
+1 10 1 1 10 10 	Neg	Pos
+9 1 1 1 9 	Neg	Neg
+1 1 1 1 1 1 1 	Neg	Neg
+1 10 10 1 1 12 1 1 10 10 1 1 	Neg	Neg
+5 5 5 10 1 5 1 1 1 1 1 1 5 10 	Neg	Neg
+11 10 10 1 11 11 10 11 11 10 	Neg	Neg
+2 1 6 1 2 1 2 2 1 13 1 	Neg	Neg
+1 10 1 10 10 	Neg	Pos
+1 1 1 1 1 1 	Pos	Pos
+1 9 1 1 6 9 1 1 	Neg	Neg
+4 4 4 2 1 1 1 	Neg	Neg
+7 1 1 6 7 	Neg	Neg
+4 2 1 2 4 3 4 1 1 2 1 2 4 1 4 	Neg	Neg
+1 1 10 1 2 8 8 	Neg	Neg
+6 6 6 6 1 6 6 6 8 1 1 	Neg	Neg
+6 1 1 7 1 1 5 	Neg	Neg
+2 1 12 1 1 1 1 	Neg	Neg
+5 10 5 5 10 2 1 	Neg	Neg
+1 1 10 	Neg	Pos
+2 5 1 1 5 2 	Neg	Neg
+7 7 7 6 1 6 6 1 	Neg	Neg
+1 1 2 1 1 1 1 1 1 	Neg	Neg
+1 1 1 6 1 1 1 6 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 2 1 2 1 1 2 1 2 	Neg	Pos
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 7 1 1 1 1 6 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 4 10 1 10 1 1 2 3 1 	Neg	Neg
+7 6 6 7 1 1 1 7 6 1 1 1 1 1 	Neg	Neg
+6 9 1 9 6 6 9 6 	Neg	Neg
+1 1 10 1 1 1 5 10 1 1 	Neg	Neg
+2 1 1 1 1 3 6 1 2 2 1 2 2 3 1 1 	Neg	Neg
+1 1 13 1 10 1 1 10 10 1 	Neg	Neg
+9 1 1 9 9 9 9 6 	Neg	Neg
+1 6 1 1 1 6 1 6 6 	Neg	Pos
+1 1 1 1 1 1 1 1 	Pos	Pos
+10 13 13 10 1 13 10 1 13 13 	Neg	Neg
+1 12 12 	Neg	Neg
+1 1 1 1 1 10 10 1 1 1 	Neg	Pos
+1 1 1 6 1 1 1 1 1 	Neg	Pos
+1 1 3 1 1 1 2 3 1 	Neg	Neg
+1 1 1 6 13 1 6 1 6 	Neg	Neg
+6 6 1 6 6 6 10 6 1 6 6 1 6 6 1 6 6 6 6 1 6 1 1 1 	Neg	Neg
+1 2 2 2 1 1 1 	Neg	Pos
+1 10 1 11 1 1 10 1 1 	Neg	Neg
+10 10 10 1 10 1 10 	Neg	Neg
+6 6 7 6 1 6 7 6 6 7 7 6 7 1 6 2 	Neg	Neg
+5 5 5 5 1 5 1 5 4 1 5 2 1 	Neg	Neg
+5 1 1 	Neg	Neg
+1 1 1 6 6 6 10 10 1 	Neg	Neg
+1 11 1 1 1 8 11 1 1 1 1 1 1 	Neg	Neg
+5 1 1 1 4 1 1 1 2 1 	Neg	Neg
+1 2 13 10 13 10 	Neg	Neg
+6 6 10 6 1 10 6 1 6 	Neg	Neg
+6 9 9 1 1 6 6 1 9 1 1 1 1 9 	Neg	Neg
+2 2 2 1 2 2 2 2 1 2 	Neg	Pos
+1 9 1 1 1 1 6 1 9 9 6 1 1 	Neg	Neg
+6 1 7 7 6 1 7 6 1 1 	Neg	Neg
+2 1 2 2 5 2 	Neg	Neg
+1 10 10 1 1 1 1 1 1 1 	Neg	Neg
+2 1 4 1 1 1 1 1 2 4 1 2 2 4 	Neg	Neg
+1 1 2 1 1 2 2 1 	Neg	Neg
+1 1 1 2 1 1 1 2 1 2 2 10 1 1 	Neg	Neg
+10 10 12 10 12 2 	Neg	Neg
+3 11 1 1 	Neg	Neg
+9 1 1 6 6 6 9 9 6 1 1 	Neg	Neg
+2 1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 1 	Neg	Neg
+13 10 1 13 13 13 1 10 13 13 1 	Neg	Neg
+9 9 9 9 6 9 9 9 	Neg	Neg
+6 1 1 6 1 9 1 	Neg	Neg
+1 1 1 1 1 1 10 1 1 1 1 	Neg	Pos
+6 6 10 8 1 8 6 6 1 8 6 6 6 8 10 	Neg	Neg
+12 1 10 9 1 12 12 1 1 1 12 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 10 10 1 1 13 13 10 10 	Neg	Neg
+2 2 1 2 2 1 1 7 1 1 1 1 2 1 1 	Neg	Neg
+1 7 6 1 6 1 1 1 6 7 6 3 7 1 2 	Neg	Neg
+2 1 1 2 2 1 6 1 1 5 1 	Neg	Neg
+13 11 1 10 10 10 10 10 10 1 1 	Neg	Neg
+12 2 1 10 12 1 3 12 1 1 1 3 	Neg	Neg
+6 1 6 6 1 1 1 1 1 	Neg	Neg
+1 2 1 1 1 1 2 4 1 1 4 2 1 2 1 1 	Neg	Neg
+1 2 2 1 1 1 5 	Neg	Neg
+1 1 1 1 1 1 10 	Neg	Neg
+1 2 1 2 1 2 11 2 1 1 	Neg	Neg
+1 1 8 6 8 6 8 6 	Neg	Neg
+3 2 	Neg	Neg
+5 1 1 2 1 1 1 2 	Neg	Neg
+1 1 11 1 10 10 10 1 2 11 10 	Neg	Neg
+1 10 1 10 10 1 11 	Neg	Neg
+3 1 3 2 3 2 1 2 3 3 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+6 9 6 1 9 9 1 9 6 1 6 1 9 	Neg	Neg
+3 2 3 3 2 2 1 	Neg	Neg
+1 3 2 2 1 12 10 	Neg	Neg
+2 4 13 4 7 6 1 13 8 8 4 1 	Neg	Neg
+1 1 11 10 10 1 11 11 1 11 10 1 11 10 1 11 11 1 	Neg	Neg
+1 3 1 1 1 1 1 1 1 1 3 	Neg	Neg
+1 1 3 2 3 1 2 3 2 1 3 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+6 2 10 6 1 	Neg	Neg
+1 2 2 4 2 2 1 4 	Neg	Neg
+10 1 12 1 12 10 1 10 1 10 10 	Neg	Neg
+6 6 1 	Neg	Neg
+1 2 2 1 2 2 11 2 1 2 2 4 2 2 	Neg	Neg
+2 10 10 12 12 12 10 	Neg	Neg
+9 6 1 1 6 9 6 	Neg	Neg
+5 1 2 1 1 1 1 5 5 2 5 5 1 	Neg	Neg
+10 1 10 10 1 10 1 1 1 1 10 10 10 1 1 	Neg	Pos
+1 1 10 1 1 1 	Neg	Neg
+2 5 5 2 1 	Neg	Neg
+8 1 8 8 8 1 1 1 8 	Neg	Neg
+1 1 2 1 6 3 1 3 1 2 1 1 9 9 	Neg	Neg
+12 10 10 10 10 1 12 1 	Neg	Neg
+10 1 10 10 10 10 10 10 10 	Neg	Pos
+1 10 1 11 1 10 10 1 	Neg	Neg
+1 10 1 1 1 10 	Neg	Pos
+5 6 1 1 1 2 5 	Neg	Neg
+2 1 2 2 1 	Neg	Pos
+8 6 6 6 1 8 8 6 2 6 1 1 	Neg	Neg
+1 6 1 6 7 12 1 6 	Neg	Neg
+9 9 9 1 9 9 	Neg	Neg
+10 11 1 6 11 	Neg	Neg
+1 1 10 2 1 1 1 1 1 	Neg	Pos
+6 2 2 2 2 2 1 5 2 	Neg	Neg
+9 6 1 1 1 9 1 3 9 9 	Neg	Neg
+9 6 10 1 10 12 4 10 2 1 2 12 1 	Neg	Neg
+10 1 1 1 1 12 12 12 1 1 10 	Neg	Neg
+1 1 1 10 2 12 2 	Neg	Neg
+1 10 1 1 10 	Neg	Pos
+6 1 9 1 6 9 1 	Neg	Neg
+4 1 4 1 4 2 4 4 2 4 1 	Neg	Neg
+5 2 2 2 1 2 2 4 2 1 5 2 	Neg	Neg
+1 1 1 1 1 1 	Neg	Neg
+10 1 10 1 1 1 10 	Neg	Neg
+10 1 1 1 1 1 1 1 	Neg	Neg
+1 12 10 1 11 10 	Neg	Neg
+1 1 1 1 4 2 1 4 2 2 4 	Neg	Neg
+6 1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+2 1 1 1 1 8 1 6 6 6 	Neg	Neg
+10 10 1 3 1 2 	Neg	Neg
+2 6 4 2 6 4 2 4 2 	Neg	Neg
+1 10 1 1 1 1 1 1 1 10 10 1 1 	Neg	Pos
+1 10 1 1 1 10 10 1 7 10 13 1 1 1 1 13 10 10 10 1 6 13 	Neg	Neg
+1 10 11 1 10 10 10 11 1 11 10 10 11 	Neg	Neg
+1 1 1 1 1 6 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 10 1 2 10 1 1 1 1 	Neg	Pos
+12 12 1 1 10 10 12 10 12 13 13 10 1 1 	Neg	Neg
+1 2 3 2 3 3 1 3 2 2 	Neg	Neg
+1 1 7 7 10 10 1 1 7 6 6 6 1 1 7 7 7 1 6 	Neg	Neg
+1 12 1 12 1 12 1 1 10 7 	Neg	Neg
+2 1 5 2 2 1 2 5 5 2 5 5 	Neg	Neg
+6 10 1 6 8 8 8 6 8 1 10 8 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+7 1 1 1 7 7 6 7 6 1 6 6 6 	Neg	Neg
+1 1 1 6 8 8 6 6 1 1 1 1 1 8 	Neg	Neg
+9 9 1 10 6 	Neg	Neg
+4 2 1 4 2 2 1 4 	Neg	Neg
+1 1 1 1 1 1 1 1 	Neg	Neg
+11 1 3 1 1 11 1 10 5 1 1 1 10 1 	Neg	Neg
+1 10 10 1 1 12 12 1 1 6 10 	Neg	Neg
+2 1 2 1 1 1 1 1 2 2 2 2 2 1 2 	Neg	Neg
+6 7 7 6 1 1 	Neg	Neg
+1 2 2 2 1 1 2 1 2 2 	Neg	Pos
+5 1 1 1 5 2 9 	Neg	Neg
+6 6 6 6 6 	Neg	Pos
+7 1 1 6 7 6 7 7 	Neg	Neg
+6 6 6 6 6 1 6 6 6 1 1 1 1 1 6 6 	Neg	Pos
+1 1 1 6 6 1 1 1 7 	Neg	Neg
+1 1 10 1 13 1 1 5 1 1 2 1 1 5 5 2 1 	Neg	Neg
+1 7 7 7 6 7 7 1 1 1 7 7 1 1 7 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 2 1 1 2 1 	Neg	Pos
+1 1 2 1 1 1 2 1 1 	Neg	Pos
+1 8 8 6 8 1 6 6 8 1 6 1 6 1 1 6 6 	Neg	Neg
+1 1 10 1 10 10 1 10 10 1 1 1 1 3 	Neg	Neg
+1 8 10 1 10 11 11 10 	Neg	Neg
+8 8 1 1 1 1 8 1 1 	Neg	Neg
+1 6 6 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 10 11 11 1 10 10 11 11 11 10 1 11 11 	Neg	Neg
+1 1 1 1 1 	Pos	Pos
+1 1 6 1 6 1 6 1 6 1 6 6 1 6 6 1 	Neg	Pos
+1 1 1 1 1 1 1 	Pos	Pos
+1 2 1 1 1 1 1 1 1 1 2 1 2 	Neg	Neg
+1 6 1 11 7 	Neg	Neg
+1 12 12 1 10 12 12 10 10 1 10 12 12 	Neg	Neg
+1 8 2 1 3 1 8 1 8 1 	Neg	Neg
+1 1 2 1 2 1 1 1 2 2 	Neg	Pos
+1 1 1 10 10 1 1 1 1 1 10 1 1 11 1 	Neg	Neg
+1 1 1 1 	Pos	Pos
+13 13 1 1 13 13 13 1 	Neg	Neg
+12 11 11 10 11 12 1 10 12 	Neg	Neg
+1 1 6 6 1 1 1 1 1 6 1 	Neg	Neg
+1 1 2 1 4 1 4 2 	Neg	Neg
+12 10 10 2 	Neg	Neg
+1 1 2 2 1 2 1 	Neg	Pos
+8 1 1 6 6 1 8 6 8 8 1 8 8 8 1 8 	Neg	Neg
+1 1 	Pos	Pos
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+8 1 1 1 1 1 6 1 6 1 1 	Neg	Neg
+8 6 1 6 6 8 1 6 8 6 1 	Neg	Neg
+11 11 10 10 10 1 10 11 11 1 11 	Neg	Neg
+13 13 10 13 1 13 10 1 10 10 	Neg	Neg
+1 1 1 1 1 1 	Neg	Neg
+1 10 10 1 10 1 1 1 	Neg	Neg
+6 6 6 6 6 6 1 6 6 1 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 6 1 6 1 	Neg	Pos
+2 2 2 2 4 2 2 2 1 1 1 5 2 1 4 1 2 4 	Neg	Neg
+1 13 1 1 1 1 1 1 1 13 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 2 3 3 2 3 2 4 1 4 2 	Neg	Neg
+1 1 12 11 10 1 12 12 5 1 1 10 12 1 10 11 	Neg	Neg
+1 5 1 2 2 1 1 5 	Neg	Neg
+1 1 2 1 1 2 1 1 1 1 1 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+5 1 2 5 1 1 1 1 1 	Neg	Neg
+2 2 2 2 1 1 1 1 1 1 1 2 	Neg	Pos
+1 6 6 7 1 1 1 7 1 6 7 	Neg	Neg
+6 1 7 7 7 6 1 1 7 1 6 6 7 	Neg	Neg
+1 6 7 12 6 7 1 6 1 6 	Neg	Neg
+10 10 10 1 1 12 1 1 12 12 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+7 6 1 7 7 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 2 2 1 2 2 	Neg	Neg
+11 1 1 11 11 11 1 1 11 11 	Neg	Neg
+1 13 1 10 1 1 10 10 1 10 	Neg	Neg
+11 7 1 11 1 6 6 1 	Neg	Neg
+5 5 1 1 1 1 1 5 5 8 5 1 6 1 	Neg	Neg
+3 6 2 1 1 6 3 1 	Neg	Neg
+6 6 1 1 1 6 6 6 1 1 1 6 1 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 2 5 10 5 2 5 10 2 5 2 	Neg	Neg
+3 1 2 5 1 2 3 1 3 	Neg	Neg
+10 1 1 1 1 10 1 10 1 1 1 10 	Neg	Pos
+1 1 1 1 10 1 1 10 10 10 1 1 10 	Neg	Pos
+2 2 1 6 1 2 6 1 1 1 2 2 1 2 2 2 2 2 1 1 	Neg	Neg
+1 1 1 1 10 9 1 13 1 1 10 1 13 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 5 1 1 1 1 1 	Neg	Neg
+2 4 2 2 4 4 1 	Neg	Neg
+1 1 3 1 6 6 3 2 1 3 	Neg	Neg
+1 1 6 8 1 8 1 2 8 	Neg	Neg
+1 6 1 9 1 1 9 6 9 6 6 	Neg	Neg
+6 6 1 1 1 1 6 5 6 6 6 1 6 6 	Neg	Neg
+10 1 1 10 1 1 10 1 1 	Neg	Pos
+1 1 1 10 10 1 1 10 10 1 1 1 1 	Neg	Neg
+10 10 1 13 10 1 13 1 1 	Neg	Neg
+1 1 10 13 1 12 1 1 10 13 10 12 	Neg	Neg
+1 10 12 10 12 12 12 10 10 12 12 	Neg	Neg
+1 1 1 2 1 2 2 3 1 2 	Neg	Neg
+1 1 1 1 1 1 2 1 1 1 1 1 1 1 	Neg	Neg
+8 6 1 1 1 1 6 1 1 1 1 8 	Neg	Neg
+6 1 3 3 2 1 1 3 3 10 1 1 2 3 1 1 3 2 1 	Neg	Neg
+1 1 1 9 1 1 1 1 1 1 9 1 	Neg	Neg
+10 1 9 1 9 9 6 9 9 	Neg	Neg
+1 1 1 1 1 10 1 1 	Neg	Pos
+1 1 1 1 4 4 1 1 10 1 4 	Neg	Neg
+11 1 1 10 1 11 10 1 10 10 	Neg	Neg
+1 1 1 1 1 1 1 	Pos	Pos
+6 1 6 1 1 1 6 6 1 1 1 	Neg	Pos
+10 13 13 10 13 13 13 13 1 	Neg	Neg
+10 5 1 1 10 1 2 	Neg	Neg
+6 1 1 9 1 6 6 1 6 1 6 1 1 	Neg	Neg
+1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 6 6 1 1 6 6 6 6 6 7 7 1 6 	Neg	Neg
+10 10 1 10 10 1 1 10 10 10 1 	Neg	Pos
+1 2 5 5 5 2 1 	Neg	Neg
+10 1 1 1 10 1 10 1 1 1 10 10 	Neg	Pos
+4 1 4 8 1 1 	Neg	Neg
+1 1 1 1 11 1 10 11 1 10 6 1 10 	Neg	Neg
+6 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 10 1 1 1 1 10 1 1 10 10 	Neg	Pos
+1 1 1 10 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 10 10 10 1 1 13 10 	Neg	Neg
+10 1 10 10 1 1 10 1 10 1 1 	Neg	Pos
+10 8 11 10 2 1 6 	Neg	Neg
+1 1 2 1 2 2 1 1 	Neg	Neg
+1 1 1 1 2 1 1 1 1 2 2 	Neg	Pos
+4 4 1 1 1 2 2 1 1 	Neg	Neg
+1 1 1 13 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 6 1 1 1 1 1 6 6 1 6 	Neg	Pos
+13 10 10 13 10 10 10 1 1 1 13 	Neg	Neg
+2 1 2 2 11 2 1 1 2 2 	Neg	Neg
+5 1 1 1 2 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 12 10 1 10 1 1 1 10 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+6 8 9 6 9 1 1 9 9 8 	Neg	Neg
+1 4 1 4 4 2 2 1 	Neg	Neg
+1 4 2 2 1 1 1 4 1 4 8 	Neg	Neg
+6 1 1 10 1 9 9 1 1 1 	Neg	Neg
+1 6 6 1 1 6 1 1 1 6 6 1 1 6 1 6 	Neg	Neg
+1 6 1 6 6 9 1 9 9 1 6 	Neg	Neg
+1 6 5 6 1 6 10 10 1 6 5 7 1 1 6 1 6 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+1 1 1 1 10 1 1 1 1 	Neg	Neg
+9 6 1 6 6 1 7 1 	Neg	Neg
+1 1 1 2 1 1 2 1 1 1 1 	Neg	Pos
+10 1 6 1 1 1 1 1 8 1 1 13 8 10 1 1 13 1 	Neg	Neg
+6 3 6 1 1 1 2 6 7 1 1 	Neg	Neg
+4 1 1 2 1 4 2 2 4 2 	Neg	Neg
+9 6 9 6 1 1 6 	Neg	Neg
+1 1 1 1 1 1 	Pos	Pos
+10 10 1 1 1 10 10 10 4 2 10 10 10 1 1 	Neg	Neg
+11 10 1 6 	Neg	Neg
+1 10 10 10 1 10 10 10 	Neg	Pos
+10 10 1 1 1 1 11 11 11 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 2 1 1 1 3 	Neg	Neg
+1 1 1 1 1 1 1 1 6 1 1 1 	Neg	Neg
+4 1 1 1 1 4 2 1 2 2 	Neg	Neg
+10 4 10 4 12 1 1 10 1 10 2 2 	Neg	Neg
+1 6 1 1 7 6 	Neg	Neg
+1 6 1 1 2 1 6 6 	Neg	Pos
+12 11 10 10 1 12 12 1 	Neg	Neg
+1 1 2 7 7 1 4 4 2 1 4 6 2 1 2 	Neg	Neg
+5 1 1 6 1 2 1 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 1 11 11 1 1 	Neg	Neg
+1 1 1 1 10 1 10 1 1 10 1 1 1 	Neg	Neg
+10 11 1 10 6 6 1 1 	Neg	Neg
+3 2 3 1 1 2 2 2 3 1 	Neg	Neg
+1 12 1 10 1 3 3 1 	Neg	Neg
+12 12 1 1 1 1 2 1 1 	Neg	Neg
+1 6 1 1 1 6 1 1 6 6 6 1 1 	Neg	Pos
+2 1 2 6 1 8 6 1 1 1 1 2 	Neg	Neg
+13 13 13 1 10 13 	Neg	Neg
+1 1 1 9 10 6 9 10 10 1 9 1 1 1 1 	Neg	Neg
+10 10 3 1 2 1 3 10 2 1 2 1 1 1 10 	Neg	Neg
+1 1 2 1 3 1 1 1 1 3 2 	Neg	Neg
+1 6 6 6 1 6 6 8 2 6 6 	Neg	Neg
+2 2 2 2 1 2 1 1 1 2 2 2 	Neg	Pos
+13 10 1 10 1 13 10 1 1 10 	Neg	Neg
+1 1 10 10 1 11 1 10 7 10 1 7 	Neg	Neg
+10 1 1 10 1 1 1 1 10 1 	Neg	Pos
+6 10 10 1 10 8 13 1 	Neg	Neg
+1 5 1 1 1 1 1 1 1 1 1 1 2 2 	Neg	Neg
+1 4 2 2 2 1 4 4 2 4 	Neg	Neg
+1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 10 1 1 1 1 10 10 10 10 10 	Neg	Pos
+1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 13 1 1 1 	Neg	Neg
+9 1 1 1 9 1 1 11 9 1 10 	Neg	Neg
+1 2 9 1 9 3 	Neg	Neg
+4 2 4 2 4 1 4 1 2 	Neg	Neg
+10 1 1 1 	Neg	Pos
+1 2 4 4 4 2 4 1 4 2 	Neg	Neg
+2 5 2 2 5 5 2 5 2 1 1 1 5 3 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 13 2 10 1 1 1 3 	Neg	Neg
+2 1 6 1 5 5 2 5 	Neg	Neg
+6 6 4 6 7 7 1 7 2 1 	Neg	Neg
+1 1 1 1 2 1 1 2 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+5 2 5 2 1 2 5 5 	Neg	Neg
+1 4 1 2 1 4 2 2 4 4 	Neg	Neg
+6 6 1 1 6 1 	Neg	Neg
+1 1 4 1 1 	Neg	Neg
+1 1 1 1 2 1 	Neg	Neg
+1 1 1 6 1 1 1 6 	Neg	Pos
+1 12 1 12 1 1 1 1 1 10 1 10 	Neg	Neg
+5 1 1 1 2 1 5 5 5 5 	Neg	Neg
+1 1 4 1 1 1 4 	Neg	Neg
+1 1 10 13 13 13 1 10 10 13 1 10 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 3 1 1 	Neg	Neg
+1 1 1 1 1 1 1 	Pos	Pos
+10 10 1 10 12 7 6 6 12 12 1 	Neg	Neg
+1 11 1 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 2 8 2 1 2 1 	Neg	Neg
+8 8 2 2 1 1 1 	Neg	Neg
+13 1 13 1 13 10 10 	Neg	Neg
+6 1 1 8 1 1 8 	Neg	Neg
+6 6 6 6 	Neg	Pos
+1 1 1 10 1 11 1 11 1 1 1 1 1 1 1 10 1 	Neg	Neg
+10 1 10 10 1 1 1 1 1 	Neg	Pos
+8 1 1 6 1 1 1 1 	Neg	Neg
+1 12 10 1 1 	Neg	Neg
+2 1 11 1 1 1 	Neg	Neg
+1 10 1 10 1 1 1 10 10 1 11 10 	Neg	Neg
+1 3 1 3 3 2 1 2 1 2 3 	Neg	Neg
+1 10 10 10 1 1 12 12 1 12 1 	Neg	Neg
+6 2 1 2 1 6 6 1 1 1 1 7 1 6 	Neg	Neg
+1 1 11 1 1 10 1 1 11 1 1 	Neg	Neg
+1 1 7 1 6 1 1 1 7 1 6 6 6 7 	Neg	Neg
+6 1 7 6 6 1 1 10 1 	Neg	Neg
+1 11 10 1 11 11 11 1 1 1 11 1 11 11 	Neg	Neg
+1 1 1 10 1 1 	Neg	Pos
+11 10 1 11 11 1 11 10 	Neg	Neg
+1 1 6 8 2 8 1 6 8 	Neg	Neg
+1 7 7 2 1 2 1 10 2 6 	Neg	Neg
+1 1 1 1 1 1 2 1 2 	Neg	Pos
+6 1 6 6 6 1 1 1 6 	Neg	Pos
+1 5 2 12 1 1 1 1 12 1 5 1 	Neg	Neg
+1 6 1 1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+10 1 1 10 1 1 8 11 6 1 11 11 	Neg	Neg
+1 1 1 1 1 1 1 1 1 11 1 2 	Neg	Neg
+11 11 11 1 10 11 1 	Neg	Neg
+5 5 11 1 1 11 1 10 9 11 1 1 5 1 	Neg	Neg
+6 1 6 1 6 6 6 6 6 1 1 6 1 	Neg	Pos
+1 2 2 6 2 5 1 1 2 1 1 1 9 5 1 1 1 	Neg	Neg
+6 6 1 10 12 6 	Neg	Neg
+2 1 1 3 2 3 1 	Neg	Neg
+1 1 9 1 1 6 1 1 1 1 9 1 	Neg	Neg
+12 1 10 1 12 1 12 10 12 10 10 1 10 1 1 12 12 	Neg	Neg
+1 1 2 1 1 1 1 1 1 6 1 	Neg	Neg
+6 1 8 6 6 1 1 6 	Neg	Neg
+1 1 1 1 1 1 6 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+10 11 10 12 10 11 10 12 1 12 10 1 10 12 1 1 	Neg	Neg
+1 6 1 6 6 12 1 6 1 6 	Neg	Neg
+5 5 5 5 1 2 1 	Neg	Neg
+10 10 10 1 10 1 10 10 10 1 10 10 	Neg	Pos
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+2 1 1 1 1 3 1 1 1 1 3 3 1 1 	Neg	Neg
+10 13 2 10 1 10 1 2 1 13 5 1 	Neg	Neg
+13 10 1 12 10 1 10 1 	Neg	Neg
+4 4 2 2 4 1 4 12 2 1 2 1 2 1 	Neg	Neg
+7 7 1 7 7 6 6 7 7 	Neg	Neg
+2 6 1 1 1 6 2 4 7 1 	Neg	Neg
+1 2 1 10 1 1 1 	Neg	Neg
+1 6 1 1 1 6 9 1 1 6 	Neg	Neg
+6 1 7 1 5 	Neg	Neg
+2 13 10 1 10 1 10 	Neg	Neg
+1 13 1 1 1 1 1 1 1 1 1 1 1 1 10 1 	Neg	Neg
+10 1 1 1 1 12 10 10 1 12 1 1 12 12 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+6 1 2 6 7 7 1 3 7 	Neg	Neg
+1 1 1 1 1 1 6 1 1 	Neg	Pos
+1 1 12 12 10 10 1 12 1 1 	Neg	Neg
+3 2 2 1 1 3 3 2 	Neg	Neg
+10 8 1 1 10 1 1 10 10 	Neg	Neg
+1 1 1 1 1 	Pos	Pos
+1 1 2 1 	Neg	Neg
+3 6 1 1 1 1 3 6 	Neg	Neg
+5 1 1 5 1 1 	Neg	Neg
+1 1 1 1 1 	Pos	Pos
+10 1 1 1 1 1 1 1 1 1 	Neg	Neg
+1 1 1 1 6 6 1 6 1 1 	Neg	Pos
+4 4 6 1 1 4 4 2 1 2 2 2 2 2 	Neg	Neg
+6 6 9 6 6 	Neg	Neg
+1 2 2 3 1 1 2 3 1 1 1 2 1 1 	Neg	Neg
+1 1 1 1 2 2 13 13 1 10 1 1 1 	Neg	Neg
+7 6 7 6 7 1 7 1 1 6 6 	Neg	Neg
+1 1 1 5 1 1 1 1 1 1 1 1 1 1 	Neg	Neg
+6 1 10 10 1 1 1 7 1 1 6 1 1 	Neg	Neg
+1 1 1 12 10 12 1 10 1 12 	Neg	Neg
+1 1 1 1 10 1 1 1 10 	Neg	Pos
+1 1 1 1 1 6 1 1 1 1 1 1 1 	Neg	Neg
+9 1 1 1 1 6 1 1 10 1 10 	Neg	Neg
+1 1 10 1 10 10 10 1 1 1 	Neg	Pos
+10 2 1 1 1 10 13 13 13 1 1 1 	Neg	Neg
+1 1 2 1 1 2 2 2 2 2 2 1 2 1 1 1 1 2 	Neg	Pos
+6 6 9 1 	Neg	Neg
+6 6 1 1 6 1 1 1 	Neg	Neg
+10 1 1 1 12 10 10 10 10 10 10 1 12 1 12 1 	Neg	Neg
+2 4 1 2 1 2 1 1 1 1 	Neg	Neg
+11 10 11 11 10 1 10 11 	Neg	Neg
+1 1 1 6 10 1 6 6 6 	Neg	Neg
+1 2 1 1 1 2 2 2 1 1 1 	Neg	Pos
+10 1 1 12 1 1 1 12 1 1 1 12 1 	Neg	Neg
+4 4 4 1 1 1 4 1 2 1 	Neg	Neg
+1 10 1 1 1 1 1 10 1 10 10 1 1 10 1 10 1 	Neg	Pos
+8 6 6 8 1 6 1 1 6 1 8 	Neg	Neg
+6 1 1 1 1 1 1 1 	Neg	Pos
+10 1 1 1 3 1 1 1 1 1 1 10 1 12 1 	Neg	Neg
+6 8 1 1 1 6 6 	Neg	Neg
+12 1 10 12 13 12 1 12 12 1 12 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 4 1 1 1 1 1 1 6 1 	Neg	Neg
+1 10 1 12 1 1 1 12 	Neg	Neg
+6 11 10 2 11 1 5 1 1 11 11 10 1 	Neg	Neg
+1 1 10 10 10 1 	Neg	Pos
+1 1 1 1 1 6 1 11 7 6 6 1 	Neg	Neg
+1 1 1 1 1 1 	Neg	Pos
+2 1 2 2 4 1 1 1 1 12 2 	Neg	Neg
+1 6 9 1 9 9 	Neg	Neg
+6 5 1 5 6 1 	Neg	Neg
+8 1 1 1 1 1 9 1 1 6 6 	Neg	Neg
+5 2 1 2 1 5 2 	Neg	Neg
+3 2 3 1 1 2 2 3 3 2 	Neg	Neg
+1 1 2 1 9 1 6 2 4 2 6 6 1 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 1 1 	Neg	Pos
+6 8 8 1 6 1 8 6 8 1 	Neg	Neg
+10 10 1 1 10 11 	Neg	Neg
+1 1 1 1 1 1 1 1 1 1 1 	Pos	Pos
+1 1 1 1 1 2 1 1 1 2 1 1 1 	Neg	Pos
+1 2 1 2 5 2 1 2 1 5 2 5 1 2 9 5 1 	Neg	Neg
